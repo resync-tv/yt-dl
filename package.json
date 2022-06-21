@@ -59,7 +59,7 @@
   "dependencies": {
     "execa": "^5.1.1",
     "fs-jetpack": "^4.3.0",
-    "got": "^11.8.3",
+    "got": "^11.8.5",
     "promise.any": "^2.0.2",
     "type-fest": "^0.20.2",
     "ytdl-core": "^4.11.0"
